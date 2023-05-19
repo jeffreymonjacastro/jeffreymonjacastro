@@ -13,6 +13,8 @@ My names is Jeffrey Monja Castro and I like programming :D!
 - CSS
 - JavaScript
 - SQL
+- Flask
+- PostgreSQL
 
 ## Contact 📲
 
