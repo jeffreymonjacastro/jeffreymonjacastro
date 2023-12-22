@@ -1,6 +1,6 @@
 ## Hello✨
 
-My names is Jeffrey Monja Castro and I like programming :D!
+My names is Jeffrey Monja Castro, I'm a Computer Science student and I like programming :D!
 
 - Follow me in Ig [@jeffrey_amc](https://www.instagram.com/jeffrey_amc/), there's where I post all my codes with a great desing 👀
 
