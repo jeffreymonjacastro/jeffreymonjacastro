@@ -3,28 +3,36 @@
 </div>
 <img src="https://i.imgur.com/IauawwN.png" alt="Presentación">
 
-![GitHub followers](https://img.shields.io/github/followers/jeffreymonjacastro?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/jeffrey_amc)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeffrey-monja-castro/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jeffrey Monja Castro"/>
+  </a>
+
+  <a href = "mailto:jeffreymonjacastro@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jeffreymonjacastro"/>
+  </a>
+  
+  <a href="https://github.com/jeffreymonjacastro"> 
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jeffreymonjacastro">
+  </a>
+</p>
 
 ## 💁 About me
 - 💻 Computer Science Student in UTEC
-- 🚀 Cloud Developer, I'm working in web deployment
-- 🌐 FullStack Developer, I like build and improve web
-- ⌨️ Junior Programmer, Data Structures, Design Patterns, Algorithms
+- 🚀 Cloud Developer, I'm working in web deployment.
+- 🌐 FullStack Developer, I like build and improve web sites.
+- ⌨️ Junior Programmer, Data Structures, Design Patterns, Algorithms, and so on.
 - 🖍️ Graphic Designer, have you seen my cute banner above?
+- ✉️ Contact me: <a href="mailto:jeffreymonjacastro@gmail.com" target="blank">jeffreymonjacastro@gmail.com </a>
 <br>
 
-## Skilss 💻
-
-- Python
-- C++
-- R
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Flask
-- PostgreSQL
+## 🖥️ My Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,cpp,py,html,css,js,nodejs,react,django,postgres,git,github,vscode,bash,linux"/>
+  </a>
+</p>
+<br>
 
 ## 🚀 Projects involved
 <table>
@@ -40,7 +48,7 @@
             <img src="https://img.shields.io/badge/CÓDIGO-820611?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Lorem ipsun </p>
+        <p>**Reganvi** is a B2B dedicated to contact between suppliers of recyclable materials with industries committed to recycling and circular economy ♻️ </p>
       </div>                                                                                          
     </td>
     <td width="50%">
@@ -54,7 +62,7 @@
             <img src="https://img.shields.io/badge/CÓDIGO-820611?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Lorem ipsun</p>
+        <p> Some of my mini projects that would not be very useful for a portfolio but would be very useful for the first steps of a Junior Web Programmer 👶 </p>
       </div>                                                             
     </td>
   </tr>
