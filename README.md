@@ -48,7 +48,7 @@
             <img src="https://img.shields.io/badge/CÓDIGO-820611?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>**Reganvi** is a B2B dedicated to contact between suppliers of recyclable materials with industries committed to recycling and circular economy ♻️ </p>
+        <p><b>Reganvi</b> is a B2B dedicated to contact between suppliers of recyclable materials with industries committed to recycling and circular economy ♻️ </p>
       </div>                                                                                          
     </td>
     <td width="50%">
