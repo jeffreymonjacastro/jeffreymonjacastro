@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jeffreymonjacastro?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/jeffrey_amc)
 
-## About me
+## 💁 About me
 - 💻 Computer Science Student in UTEC
 - 🚀 Cloud Developer, I'm working in web deployment
 - 🌐 FullStack Developer, I like build and improve web
@@ -26,7 +26,7 @@
 - Flask
 - PostgreSQL
 
-## Projects involved
+## 🚀 Projects involved
 <table>
   <tr>
     <td width="50%">
@@ -47,7 +47,7 @@
       <h3 align="center">Web Mini Projects</h3>
       <div align="center">                                       
         <a href="https://github.com/jeffreymonjacastro/Web_mini_projects" target="_blank">
-          <img src="https://i.imgur.com/gDTNO3H.png" width="100%" alt="Web mini projects">
+          <img src="https://i.imgur.com/qsArZGZ.png" width="100%" alt="Web mini projects">
         </a>
         <p>
           <a href="https://github.com/jeffreymonjacastro/Web_mini_projects" target="_blank">
@@ -59,3 +59,12 @@
     </td>
   </tr>
 </table>
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jeffreymonjacastro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeffreymonjacastro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeffreymonjacastro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
