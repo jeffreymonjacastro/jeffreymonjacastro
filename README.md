@@ -29,7 +29,7 @@
 ## 🖥️ My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,cpp,py,html,css,js,nodejs,react,django,postgres,git,github,vscode,bash,linux"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,cpp,py,html,css,tailwind,js,nodejs,react,django,postgres,git,github,vscode,bash,linux"/>
   </a>
 </p>
 <br>
