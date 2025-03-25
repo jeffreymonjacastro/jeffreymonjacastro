@@ -19,7 +19,7 @@
 
 ## 💁 About me
 - 💻 Computer Science Student in UTEC
-- 👨‍🏫 Teacher Assistant in Platform Based Development Course in UTEC
+- 👨‍🏫 Ex Teacher Assistant in Platform Based Development Course in UTEC
 - 🚀 Cloud Developer, I'm studying in web deployment.
 - 🌐 FullStack Developer, I like build and improve web sites.
 - ⌨️ Junior Programmer, Data Structures, Design Patterns, Algorithms, and so on.
